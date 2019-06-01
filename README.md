@@ -1,6 +1,6 @@
 # 基于优先级的非抢占/抢占进程调度算法模拟程序
 
-### 作者：vili &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 联系方式：1976763043@qq.com
+### 作者：vili &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 联系方式：vili_wzl@126.com
 
 *2018年操作系统的大作业,程序使用java语言在IDEA上编写,因为涉及图形界面,故需要安装jframe插件.程序在资源分配方面,只针对打印机进行分配.*
 
