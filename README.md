@@ -1,10 +1,8 @@
 # 基于优先级的非抢占/抢占进程调度算法模拟程序
 
-**作者：vili &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 联系方式：vili_wzl@126.com**
+**作者：积极向上小木木 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;联系方式：PositiveMumu@126.com**
 
 *该项目仅仅实现基于优先级的两种进程调度算法，其余四种不支持*
-
-[TOC]
 
 ## 一、程序功能
 1. 新建进程前，请初始化打印机数量，默认为0。
