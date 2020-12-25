@@ -1,6 +1,6 @@
 # 基于优先级的非抢占/抢占进程调度算法模拟程序
 
-**作者：积极向上小木木 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 联系方式：positivemumu@126.com**
+**作者：积极向上小木木 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 联系方式：PositiveMumu@126.com**
 
 *该项目仅仅实现基于优先级的两种进程调度算法，其余四种不支持*
 
